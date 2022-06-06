@@ -2,12 +2,12 @@
 
 [![Build Status](https://travis-ci.org/kevinsawicki/birthday-pizza.svg)](https://travis-ci.org/kevinsawicki/birthday-pizza)
 
-The code for http://birthday.pizza
+The code for http://sslri.ir/hbd
 
 To run locally:
 
 ```sh
-git clone https://github.com/kevinsawicki/birthday-pizza.git
+git clone https://github.com/sslri/birthday-pizza.git
 cd birthday-pizza
 npm install
 npm start
