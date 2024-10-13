@@ -1,8 +1,8 @@
 # :birthday: :pizza: birthday.pizza :birthday: :pizza:
 
-[![Build Status](https://travis-ci.org/kevinsawicki/birthday-pizza.svg)](https://travis-ci.org/kevinsawicki/birthday-pizza)
+[![Build Status](https://travis-ci.org/SSLRI/birthday-pizza.svg)](https://travis-ci.org/SSLRI/birthday-pizza)
 
-The code for http://sslri.ir/hbd
+The code for [http://sslri.ir](https://sslri.ir/terminal/)
 
 To run locally:
 
